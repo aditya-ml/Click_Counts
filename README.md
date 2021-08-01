@@ -1,2 +1,2 @@
 # Click_Counts
-Click_Counts
+Count Clicks
